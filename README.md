@@ -6,4 +6,4 @@ Wees welkom om rond te klikken, vragen te stellen of zelfs feedback te geven, ma
 
 - [Twiin website](https://www.twiin.nl/)
 - [Twiin afsprakenstelsel](https://www.twiin.nl/afsprakenstelsel/twiin-afsprakenstelsel)
-- [Twiin Enterprise architectuur werkomgeving](#)
+- [Twiin Enterprise architectuur werkomgeving](https://twiin-nl.github.io/ea-werkomgeving/?view=id-9886cbc4dd6046be9bccd9ed287cbc57)
